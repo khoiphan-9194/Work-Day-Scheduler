@@ -31,7 +31,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
+* In order to run the application, click on the [Khoi Phan Scheduler](https://khoiphan-9194.github.io/Work-Day-Scheduler/)
 The following animation demonstrates the application functionality:
 
 ## Pseudo Code for HTML
