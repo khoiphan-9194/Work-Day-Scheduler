@@ -75,10 +75,10 @@ Below are images of the user interface of the calendar as displayed to the user:
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/3.png)
 
 
-URL to deployed application:
+URL to deployed application:  https://khoiphan-9194.github.io/Work-Day-Scheduler/
 
 
-URL to GitHub repository:
+URL to GitHub repository:  https://github.com/khoiphan-9194/Work-Day-Scheduler/
 
 
 For any questions, please contact me at phanminhkhoi91@gmail.com
